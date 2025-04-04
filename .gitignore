@@ -1,0 +1,4 @@
+.env
+.bin
+.deno
+node_modules
