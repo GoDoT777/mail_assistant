@@ -7,6 +7,7 @@
   "imports": {
     "@openai/openai": "jsr:@openai/openai@^4.71.1",
     "@std/assert": "jsr:@std/assert@1",
+    "@xtool/smtp": "jsr:@xtool/smtp@^0.1.0",
     "dotenv": "https://deno.land/x/dotenv/load.ts",
     "zod": "https://deno.land/x/zod/mod.ts",
     "oak": "https://deno.land/x/oak/mod.ts"
